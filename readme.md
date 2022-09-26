@@ -30,7 +30,7 @@ The first argument is operation to do,
 the other arguments are numbers for which operation must be done.
 
 Supported operations: sum, difference, product and fraction of float.   
-Text arguments as "+", "-", "sum", "sub", "mul" and "div" can be used for choose the operation.   
+Text arguments as "+", "-", "sum", "sub", "mul" and "div" can be used to choose the operation.   
 Difference and fraction are implemeted for only 2 arguments.   
 Sum and producntion are implemeted for at least 2 arguments.
 
